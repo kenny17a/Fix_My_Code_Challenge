@@ -4,4 +4,4 @@ Finding and solving bugs from challenges. Each folder details where challenges c
 Environment
 Languages thus far: Python, Node.js, Ruby
 Authors
-Lucky Abiom [https://github.com/Faemous]
+kenny ibrahim [https://github.com/kenny17a]
